@@ -1,5 +1,10 @@
 CleanIndeed<-function(DF) {
   
+  suppressWarnings(library(dplyr))
+  suppressWarnings(library(stringr))  
+  suppressWarnings(library(purrr))  
+  suppressWarnings(library(plyr))
+  
   DF<-DF[!duplicated(DF),]#remove duplicates
   DF$Location<-(str_extract(DF$Location, "(\\b[^\\d]+\\b)"))#remove postcodeds
   
