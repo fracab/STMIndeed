@@ -22,6 +22,6 @@ The documents contained are:
 <td class="content"></td>
 </tr>
 </li>
-
+</ul>
 
 The documents have also been published in my <a href="https://francescocaberlin.blog/category/structural-topic-model/">personal blog</a>.
