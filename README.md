@@ -2,8 +2,6 @@ This repo contains some Jupyter notebooks and accessory functions exploring the 
 
 The documents contained are:
 <ul>
-	<li style="list-style-type: none;">
-<ul>
 	<li><a href="https://github.com/fracab/STMIndeed/blob/master/CleanIndeedG.R">CleanIndeedG.R</a>: incorporate "CoordIndeedG.R" and "CleanSalaryIndeedG.R"</li>
 	<li><a href="https://github.com/fracab/STMIndeed/blob/master/CoordIndeedG.R">CoordIndeedG.R</a>: function to extrapolate coordinates from vacancies on Indeed and store them in two new columns;</li>
 	<li><a href="https://github.com/fracab/STMIndeed/blob/master/CleanSalaryIndeedG.R">CleanSalaryIndeedG.R</a>: function to extrapolate min and max salary and factor by which the rate is computed;</li>
@@ -16,5 +14,5 @@ The documents contained are:
 	<li><span class="css-truncate css-truncate-target"><a id="40096116ed1394ed0f1b67fb93a0a7f7-79d80ca0c8da90f58463de52db34a078aa6fa5c9" class="js-navigation-open" title="totaljobsCoord.txt" href="https://github.com/fracab/STMIndeed/blob/master/totaljobsCoord.txt">totaljobsCoord.txt</a>: dataset with coordinates</span></li>
 	<li><span class="css-truncate css-truncate-target"><a id="edc41d2b5790ea4b867f39bc563c9167-e2a5158be7298467640df9ef01189d582bb57a6b" class="js-navigation-open" title="totaljobsCoordRates.txt" href="https://github.com/fracab/STMIndeed/blob/master/totaljobsCoordRates.txt">totaljobsCoordRates.txt</a>: dataset with coordinates and salary rates.</span></li>
 </ul>
+
 The documents have also been published in my <a href="https://francescocaberlin.blog/category/structural-topic-model/">personal blog</a>.</li>
-</ul>
