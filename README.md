@@ -1,4 +1,4 @@
-*/Note: as of 2/5/2021, due to change in Indeed's pages the parser might no longer work correctly./*
+*Note: as of 2/5/2021, due to change in Indeed's pages the parser might no longer work correctly.*
 
 This repo contains some Jupyter notebooks and accessory functions exploring the use of the <a href="www.structuraltopicmodel.com">Structural Topic Model</a> on a corpus of job offers scraped from indeed.co.uk. This exercies is meant to be an example of usage of stm and the relative R package, and the results presented don't have any real statistical validity.
 
